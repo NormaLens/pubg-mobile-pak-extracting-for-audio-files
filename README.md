@@ -1,2 +1,1 @@
-# Wwise-Unpacker-Android
-Convert Video games .wem files into .ogg playable format available for aarch64
+this program works only aarch64 processor
